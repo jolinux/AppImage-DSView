@@ -1,0 +1,2 @@
+# appimages
+Meine ganzen Appimages
